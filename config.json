@@ -97,5 +97,7 @@
 	"body_classes": [
 		"vector"
 	],
-	"additional_heads": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
+	"additional_heads": [
+	    "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
+	]
 }
